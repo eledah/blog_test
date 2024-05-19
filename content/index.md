@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: وبلاگ من
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## سلام به وبلاگ من خوش آمدید 🖐
+
+مطلب اول من: [[مدل یادگیری بلوم]] را بخوانید.
